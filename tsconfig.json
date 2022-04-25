@@ -26,6 +26,10 @@
       "tools": [
         "dist/tools/tools",
         "dist/tools"
+      ],
+      "utils": [
+        "dist/utils/utils",
+        "dist/utils"
       ]
     }
   },
